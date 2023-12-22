@@ -29,6 +29,7 @@ Nota: Esto es solo una solución temporal. Discord dejará de tener en cuenta es
 
 
 
+<br>
 
 
 ### ¡Sígueme!
