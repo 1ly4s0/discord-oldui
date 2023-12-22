@@ -26,3 +26,8 @@ Esto emula el cambio del interruptor 'Mostrar nuevo diseño' en la configuració
 Nota: Esto es solo una solución temporal. Discord dejará de tener en cuenta esa configuración en alguna actualización futura.
 
 ### Última comprobación de funcionamiento: **22/12/2023**
+
+
+### ¡Sígueme!
+## Youtube
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
