@@ -28,5 +28,8 @@ Nota: Esto es solo una solución temporal. Discord dejará de tener en cuenta es
 ### Última comprobación de funcionamiento: **22/12/2023**
 
 
+
+
+
 ### ¡Sígueme!
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
