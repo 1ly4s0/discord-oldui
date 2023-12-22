@@ -29,5 +29,4 @@ Nota: Esto es solo una solución temporal. Discord dejará de tener en cuenta es
 
 
 ### ¡Sígueme!
-## Youtube
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
